@@ -1,0 +1,12 @@
+.list-cont {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.btn {
+  border: none;
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+}
