@@ -46,7 +46,6 @@ class Feedback extends Component {
 
     return (
       <div className="home">
-        {this.headingElement()}
         <div className="card-container">
           <div className="white-container">
             {onEmojiClicked && this.bodyElement()}

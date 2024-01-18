@@ -10,14 +10,12 @@
     font-family: 'Roboto';
     font-weight: 500;
     display: flex;
+    text-align: center;
   }
 }
 
 @media (width: 768px), (min-width: 768px) {
   .heading {
-    color: #1e293b;
-    font-family: 'Roboto';
-    font-weight: 500;
     display: none;
   }
 }
